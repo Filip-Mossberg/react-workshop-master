@@ -1,0 +1,15 @@
+.Products table {
+	margin: 0 auto;
+	border-color: #009682;
+	border-collapse: collapse;
+	margin-bottom: 1em;
+}
+
+table tr {
+	border-bottom: 1px solid #009682;
+}
+
+img {
+	max-width: 48px;
+    margin: 20px;
+}
